@@ -1,0 +1,24 @@
+{
+    "cards": [
+      {
+        "img": "https://images.unsplash.com/photo-1662638178949-01ea12757b44?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1483&q=80",
+        "title": "Card title",
+        "description": "This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer."
+      },
+      {
+        "img": "https://images.unsplash.com/photo-1662638178949-01ea12757b44?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1483&q=80",
+        "title": "Card title",
+        "description": "This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer."
+      },
+      {
+        "img": "https://images.unsplash.com/photo-1662638178949-01ea12757b44?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1483&q=80",
+        "title": "Card title",
+        "description": "This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer."
+      },
+      {
+        "img": "https://images.unsplash.com/photo-1662638178949-01ea12757b44?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1483&q=80",
+        "title": "Card title",
+        "description": "This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer."
+      }
+    ]
+  }
